@@ -1,0 +1,18 @@
+*{
+    background:url("https://i.pinimg.com/originals/af/8d/63/af8d63a477078732b79ff9d9fc60873f.jpg");
+    color: white;
+}
+p{
+    text-align: center;
+    padding-left: 25% ;
+    padding-top: 15%;
+    padding-right: 25%;
+    font-size: 25px;
+}
+ul{
+    
+    padding-left: 40% ;
+    padding-top: 15%;
+    padding-right: 25%;
+    font-size: 25px;
+}
